@@ -1,0 +1,71 @@
+E:\C#\网关配置工具 - FAO\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+E:\C#\网关配置工具 - FAO\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+E:\C#\网关配置工具 - FAO\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+E:\C#\网关配置工具 - FAO\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.MainForm.resources
+E:\C#\网关配置工具 - FAO\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+E:\C#\网关配置工具 - FAO\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\C#\网关配置工具 - FAO\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+E:\C#\网关配置工具 - FAO\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+D:\笔记本\C#\网关配置工具 - FAO\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+D:\笔记本\C#\网关配置工具 - FAO\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+D:\笔记本\C#\网关配置工具 - FAO\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+D:\笔记本\C#\网关配置工具 - FAO\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+D:\笔记本\C#\网关配置工具 - FAO\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+D:\笔记本\C#\网关配置工具 - FAO\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\笔记本\C#\网关配置工具 - FAO\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.MainForm.resources
+D:\笔记本\C#\网关配置工具 - FAO\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\笔记本\C#\网关配置工具 - FAO\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\C#\网关配置工具 - FAO - new\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+E:\C#\网关配置工具 - FAO - new\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+E:\C#\网关配置工具 - FAO - new\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+E:\C#\网关配置工具 - FAO - new\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+E:\C#\网关配置工具 - FAO - new\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+E:\C#\网关配置工具 - FAO - new\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.MainForm.resources
+E:\C#\网关配置工具 - FAO - new\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+E:\C#\网关配置工具 - FAO - new\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\C#\网关配置工具 - FAO - new\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+I:\张江涛-通号文件\笔记本\E盘\C#\网关配置工具 - FAO - new\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+I:\张江涛-通号文件\笔记本\E盘\C#\网关配置工具 - FAO - new\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+I:\张江涛-通号文件\笔记本\E盘\C#\网关配置工具 - FAO - new\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+I:\张江涛-通号文件\笔记本\E盘\C#\网关配置工具 - FAO - new\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+I:\张江涛-通号文件\笔记本\E盘\C#\网关配置工具 - FAO - new\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+I:\张江涛-通号文件\笔记本\E盘\C#\网关配置工具 - FAO - new\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+I:\张江涛-通号文件\笔记本\E盘\C#\网关配置工具 - FAO - new\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.MainForm.resources
+I:\张江涛-通号文件\笔记本\E盘\C#\网关配置工具 - FAO - new\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+I:\张江涛-通号文件\笔记本\E盘\C#\网关配置工具 - FAO - new\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+K:\张江涛-通号文件\笔记本\E盘\C#\网关配置工具 - FAO - new\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+K:\张江涛-通号文件\笔记本\E盘\C#\网关配置工具 - FAO - new\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+K:\张江涛-通号文件\笔记本\E盘\C#\网关配置工具 - FAO - new\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+K:\张江涛-通号文件\笔记本\E盘\C#\网关配置工具 - FAO - new\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+K:\张江涛-通号文件\笔记本\E盘\C#\网关配置工具 - FAO - new\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+K:\张江涛-通号文件\笔记本\E盘\C#\网关配置工具 - FAO - new\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+K:\张江涛-通号文件\笔记本\E盘\C#\网关配置工具 - FAO - new\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.MainForm.resources
+K:\张江涛-通号文件\笔记本\E盘\C#\网关配置工具 - FAO - new\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+K:\张江涛-通号文件\笔记本\E盘\C#\网关配置工具 - FAO - new\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\网关配置工具 - FAO - new\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\网关配置工具 - FAO - new\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\网关配置工具 - FAO - new\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\网关配置工具 - FAO - new\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\网关配置工具 - FAO - new\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\网关配置工具 - FAO - new\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\网关配置工具 - FAO - new\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.MainForm.resources
+C:\Users\Administrator\Desktop\网关配置工具 - FAO - new\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\网关配置工具 - FAO - new\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\地图生成\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\地图生成\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\地图生成\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\地图生成\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\地图生成\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.MainForm.resources
+C:\Users\Administrator\Desktop\地图生成\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\地图生成\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\地图生成\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\地图生成\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+F:\工作\地图生成\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+F:\工作\地图生成\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+F:\工作\地图生成\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+F:\工作\地图生成\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+F:\工作\地图生成\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+F:\工作\地图生成\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\工作\地图生成\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.MainForm.resources
+F:\工作\地图生成\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+F:\工作\地图生成\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache

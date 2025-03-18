@@ -1,0 +1,34 @@
+C:\Users\pc\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\pc\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\pc\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\pc\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\pc\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\pc\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\pc\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\C#\配置工具\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\C#\配置工具\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\C#\配置工具\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\C#\配置工具\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\C#\配置工具\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\C#\配置工具\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\C#\配置工具\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\C#\配置工具\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\C#\网关配置工具 - FAO\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\C#\网关配置工具 - FAO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\C#\网关配置工具 - FAO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\C#\网关配置工具 - FAO\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\C#\网关配置工具 - FAO\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\C#\网关配置工具 - FAO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainForm.resources
+E:\C#\网关配置工具 - FAO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\C#\网关配置工具 - FAO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\C#\网关配置工具 - FAO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\C#\网关配置工具 - FAO - 副本\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\C#\网关配置工具 - FAO - 副本\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\C#\网关配置工具 - FAO - 副本\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\C#\网关配置工具 - FAO - 副本\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\C#\网关配置工具 - FAO - 副本\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\C#\网关配置工具 - FAO - 副本\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\C#\网关配置工具 - FAO - 副本\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainForm.resources
+E:\C#\网关配置工具 - FAO - 副本\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\C#\网关配置工具 - FAO - 副本\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
